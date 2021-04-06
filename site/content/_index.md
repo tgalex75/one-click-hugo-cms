@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Maison Ikkoku Italia"
+subtitle: Un sito di appassionati del famoso Manga di Rumiko Takahashi
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
