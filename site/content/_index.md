@@ -1,7 +1,7 @@
 ---
 title: Maison Ikkoku Italia
 subtitle: Pagine per appassionati della Ikkoku-Kan
-image: /img/home-jumbotron.jpg
+image: https://res.cloudinary.com/tgalex75/image/upload/v1617741303/MaisonIkkoku/luoghi/1_db8mvixxIMxS3fdyJ8In-g_sockkt.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
