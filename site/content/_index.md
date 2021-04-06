@@ -3,11 +3,8 @@ title: Maison Ikkoku Italia
 subtitle: Pagine per appassionati della Ikkoku-Kan
 image: https://res.cloudinary.com/tgalex75/image/upload/v1617741303/MaisonIkkoku/luoghi/1_db8mvixxIMxS3fdyJ8In-g_sockkt.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Comincia tutto così...
+  text: «In un freddo giorno invernale, il nostro nuovo amministratore che è una bellissima ragazza, si è trasferito alla Maison Ikkoku… si chiama Kyoko e ha scaldato il mio cuore.» 
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
