@@ -1,6 +1,6 @@
 ---
 title: Maison Ikkoku Italia
-subtitle: Pagine per gli appassionati della Ikkoku-Kan
+subtitle: Pagine per appassionati della Ikkoku-Kan
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
