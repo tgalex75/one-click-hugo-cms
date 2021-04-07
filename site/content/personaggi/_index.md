@@ -1,7 +1,7 @@
 ---
 title: i Personaggi
 image: https://res.cloudinary.com/tgalex75/image/upload/v1617782355/MaisonIkkoku/luoghi/maison-ikkoku_strip.jpg
-values:
+personaggi:
   - heading: Yūsaku Godai
     text: >
       Yūsaku Godai (五代 裕作 Godai Yūsaku?) è il protagonista indiscusso della
